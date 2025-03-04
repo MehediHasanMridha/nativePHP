@@ -1,5 +1,5 @@
-const welcome = () => {
-    return <div>welcome</div>;
+const Welcome = () => {
+    return <div>hello</div>;
 };
 
-export default welcome;
+export default Welcome;
